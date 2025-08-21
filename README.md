@@ -11,3 +11,7 @@ Resources used:
 
 - Hyperparameter optimization
 - Combinatorial optimization problems (to determine the best order of a fixed number of elements)
+
+### My personal thoughts
+
+Simulated annealing should generally be preferred over genetic algorithms. Genetic algorithms should be used only when gradient-based methods are infeasible and randomness is an essential part of the solution.
